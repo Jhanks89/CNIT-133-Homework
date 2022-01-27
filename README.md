@@ -1,9 +1,8 @@
 # Jordan Hanks Homework Page!
 
 
+[Homework Assignment 2]
 
-<div class = "button">
-  <p> Homework 2 </p>
   
 
 
