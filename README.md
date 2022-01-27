@@ -1,10 +1,21 @@
 # Jordan Hanks Homework Page!
 
 
-[Homework Assignment 2]
+[Homework Assignment 2]()
 
-  
+[Homework Assignment 3]()
 
+[Homework Assignment 4]()
+
+[Homework Assignment 5]()
+
+[Homework Assignment 6]()
+
+[Homework Assignment 7]()
+
+[Homework Assignment 8]()
+
+![alt text](https://www.looper.com/img/gallery/the-offices-michael-scott-was-almost-a-murderer/intro-1591207215.jpg)
 
 
 
