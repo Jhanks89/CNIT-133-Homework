@@ -1,7 +1,7 @@
 # Jordan Hanks Homework Page!
 
+[Homework Assignment 2](https://jhanks89.github.io/Homework-Assignment-2/)
 
-[Homework Assignment 2](https://jhanks89.github.io/Homework-assignment-2/)
 
 [Homework Assignment 3]()
 
