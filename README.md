@@ -2,7 +2,6 @@
 
 [Homework Assignment 2](https://jhanks89.github.io/Homework-Assignment-2/)
 
-
 [Homework Assignment 3]()
 
 [Homework Assignment 4]()
