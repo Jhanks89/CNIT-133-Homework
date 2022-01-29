@@ -12,7 +12,7 @@
 
 [Homework Assignment 7](https://jhanks89.github.io/Homework-Assignment-7/)
 
-[Homework Assignment 8]()
+[Homework Assignment 8](https://jhanks89.github.io/Homework-Assignment-8/)
 
 ![alt text](https://www.looper.com/img/gallery/the-offices-michael-scott-was-almost-a-murderer/intro-1591207215.jpg)
 
