@@ -8,7 +8,7 @@
 
 [Homework Assignment 5](https://jhanks89.github.io/Homework-Assignment-5/)
 
-[Homework Assignment 6]()
+[Homework Assignment 6](https://jhanks89.github.io/Homework-Assignment-6/)
 
 [Homework Assignment 7]()
 
